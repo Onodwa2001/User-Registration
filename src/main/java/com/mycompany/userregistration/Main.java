@@ -5,6 +5,7 @@
  */
 package com.mycompany.userregistration;
 
+
 /**
  *
  * @author Numata
